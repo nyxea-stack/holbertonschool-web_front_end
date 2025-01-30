@@ -1,6 +1,6 @@
 /*Nested hover*/
 button {
-  color: #3D3D3D;
+  color: #00FF00;
 }
 button :hover {
   color: #00FF00;
