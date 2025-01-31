@@ -1,0 +1,12 @@
+/* All names */
+
+@import "10-colors";
+
+$list-names: julien, john, sam, damian;
+$photo-prefix: "photo";
+
+@each $name in $list-names {
+    .#{$photo-prefix}-#{$name} {
+        background-image: url("images/#{$name}.jpg");
+    }
+}
