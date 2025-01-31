@@ -1,0 +1,19 @@
+/*7. Nested and nested again*/
+
+$text-color1: #FF0000;
+$text-color2: #00FF00;
+$font-size: 14px;
+$font-size1: 16px;
+$font-size2: 12px;
+
+
+button {
+    font-size: $font-size;
+    h1 {
+        font-size: $font-size1;
+        .smaller {
+            font-size: $font-size2;
+        }
+    }
+}
+
