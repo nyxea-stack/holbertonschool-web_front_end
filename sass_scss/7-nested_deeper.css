@@ -1,10 +1,10 @@
 /*7. Nested and nested again*/
-button {
+body {
   font-size: 14px;
 }
-button h1 {
+body h1 {
   font-size: 16px;
 }
-button h1 .smaller {
+body h1 .smaller {
   font-size: 12px;
 }/*# sourceMappingURL=7-nested_deeper.css.map */
