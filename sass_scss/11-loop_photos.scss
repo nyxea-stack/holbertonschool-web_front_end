@@ -2,10 +2,8 @@
 
 @import "11-photos";
 
-$photo-prefix: "photo";
-
 @each $name in $list-names {
     .photo-#{$name} {
-        background: url("photos/#{$name}.jpg") no-repeat;
+        background: image-url("photos/#{$name}.jpg") no-repeat;
     }
 }
