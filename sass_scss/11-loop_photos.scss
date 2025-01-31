@@ -1,12 +1,12 @@
 /* All names */
 
-@import "10-colors.scss";
+@import "1-photos";
 
 $list-names: julien, john, sam, damian;
 $photo-prefix: "photo";
 
 @each $name in $list-names {
-    .#{$photo-prefix}-#{$name} {
+    .photo-#{$name} {
         background-image: url("images/#{$name}.jpg");
     }
 }
