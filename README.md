@@ -16,12 +16,13 @@ By the end of this project, I will be able to:
 - Detect and debug 404 errors.
 - Move, modify, or delete elements on a web page dynamically.
 
-## Requirements
-- A README.md file is mandatory at the root of the project folder.
-- Use Google Chrome version 78.0.3904.70 or later.
-- Screenshots can be taken with the operating system tools; using DevTools for screenshots is optional.
-
-## Resources
+## Resources I'm Using
+- [React – Introduction to Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
+- [Why React Doesn’t Update State Immediately](https://reactjs.org/docs/state-updates.html)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Mocking Axios in Jest](https://axios-http.com/docs/migrating_to_1x/#jest-mocking-axios)
+- [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Chrome DevTools | Tools for Web Developers | Google Developers](https://developer.chrome.com/docs/devtools/)
 - [Introduction | Down and Dirty with Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/)
 - [Firefox Developer Tools | MDN](https://developer.mozilla.org/en-US/docs/Tools)
@@ -29,6 +30,11 @@ By the end of this project, I will be able to:
 - [Get Started With Viewing And Changing CSS | Tools for Web Developers](https://developer.chrome.com/docs/devtools/css/)
 - [Keeping it simple with the JavaScript console - LogRocket Blog](https://blog.logrocket.com/keeping-it-simple-with-the-javascript-console/)
 - [Inspect Network Activity - Chrome DevTools 101](https://developers.google.com/web/tools/chrome-devtools/network)
+
+## Requirements
+- A README.md file is mandatory at the root of the project folder.
+- Use Google Chrome version 78.0.3904.70 or later.
+- Screenshots can be taken with the operating system tools; using DevTools for screenshots is optional.
 
 ## Instructions
 1. Open the Developer Tools in your preferred browser (Google Chrome is recommended).
