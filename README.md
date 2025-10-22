@@ -42,9 +42,3 @@ By the end of this project, I will be able to:
 5. Create and run a snippet to execute JavaScript directly.
 6. Test blocking a request or simulating network conditions in the "Network" tab.
 7. Take screenshots of your actions to document your learning.
-
-## Folder Structure
-```plaintext
-developer-tools/
-├── screenshots/      # Folder for screenshots of DevTools usage
-├── README.md         # Documentation for the project
